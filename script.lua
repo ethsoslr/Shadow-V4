@@ -17,14 +17,14 @@ main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 main.ResetOnSpawn = false
 
 Frame.Parent = main
-Frame.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+Frame.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 Frame.BorderColor3 = Color3.fromRGB(255, 50, 50)
 Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
 Frame.Size = UDim2.new(0, 190, 0, 57)
 
 up.Name = "up"
 up.Parent = Frame
-up.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+up.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
 up.Text = "فوق"
@@ -33,7 +33,7 @@ up.TextSize = 14.000
 
 down.Name = "down"
 down.Parent = Frame
-down.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+down.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 down.Size = UDim2.new(0, 44, 0, 28)
 down.Font = Enum.Font.SourceSans
@@ -43,7 +43,7 @@ down.TextSize = 14.000
 
 onof.Name = "onof"
 onof.Parent = Frame
-onof.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+onof.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 onof.Position = UDim2.new(0.702823281, 0, 0.491228074, 0)
 onof.Size = UDim2.new(0, 56, 0, 28)
 onof.Font = Enum.Font.SourceSans
@@ -52,7 +52,7 @@ onof.TextColor3 = Color3.fromRGB(0, 0, 0)
 onof.TextSize = 14.000
 
 TextLabel.Parent = Frame
-TextLabel.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+TextLabel.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
@@ -64,7 +64,7 @@ TextLabel.TextWrapped = true
 
 plus.Name = "plus"
 plus.Parent = Frame
-plus.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+plus.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 plus.Position = UDim2.new(0.231578946, 0, 0, 0)
 plus.Size = UDim2.new(0, 45, 0, 28)
 plus.Font = Enum.Font.SourceSans
@@ -76,7 +76,7 @@ plus.TextWrapped = true
 
 speed.Name = "speed"
 speed.Parent = Frame
-speed.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+speed.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 speed.Position = UDim2.new(0.468421042, 0, 0.491228074, 0)
 speed.Size = UDim2.new(0, 44, 0, 28)
 speed.Font = Enum.Font.SourceSans
@@ -88,7 +88,7 @@ speed.TextWrapped = true
 
 mine.Name = "mine"
 mine.Parent = Frame
-mine.BackgroundColor3 = Color3.fromRGB(81, 8, 13)
+mine.BackgroundColor3 = Color3.fromRGB(110, 0, 0)
 mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
 mine.Size = UDim2.new(0, 45, 0, 29)
 mine.Font = Enum.Font.SourceSans
@@ -153,7 +153,7 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eTex1t"):FireServ
 wait(0.1)
 local args = {
     [1] = "RolePlayBio",
-    [2] = "مـن الـمـطـور 🖤آمِـيـࢪ🖤"
+    [2] = "مـن الـمـطـور 🖤آمـيـر🖤"
 
 }
 
